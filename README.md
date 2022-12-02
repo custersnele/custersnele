@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me : 
 
-- 🔭 I’m a Java teacher at University College Hogeschool PXL in Hasselt (Belgium).
+- 🔭 I’m a Java and Neural Networks teacher at University College Hogeschool PXL in Hasselt (Belgium).
 - 🌱 I’m currently enjoying advent of code.
 
 
