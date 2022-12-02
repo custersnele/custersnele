@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=custersnele&mode=weekly)](https://git.io/streak-stats)
+
 <!--
 **custersnele/custersnele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,11 +24,11 @@ Here are some ideas to get you started:
 - 🔭 I’m a Java teacher at University College Hogeschool PXL in Hasselt (Belgium).
 - 🌱 I’m currently enjoying advent of code.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=custersnele&mode=weekly)](https://git.io/streak-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
