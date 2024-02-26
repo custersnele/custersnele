@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me : 
 
 - 🔭 I’m a Java and Neural Networks teacher at University College Hogeschool PXL in Hasselt (Belgium).
-- 🌱 I’m currently enjoying advent of code.
 
 
 ### :hammer_and_wrench: Languages and Tools :
